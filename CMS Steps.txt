@@ -1,0 +1,6 @@
+STEPS TO BUILD MY CMS
+
+1) Creating a Database 'cms' with a 'category' table
+2) Making reusable files (header, footer, db, navigation, sidebar etc) from HTML index file by creating a seperate folder called include
+3) Inserting data into categories and displaying them as navigational menu.
+4) Creating a DB categories query in the navigational file (Nav ul)
